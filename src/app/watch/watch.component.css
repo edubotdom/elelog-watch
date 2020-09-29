@@ -1,0 +1,25 @@
+#watch
+{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: -100px;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+}
+
+#hour{
+    background-color: black;
+    color:  #1c84bc;
+    height: 50px;
+    width: 140px;
+    font-size: 40px;
+    border: 3px solid #1c84bc;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#date{
+    margin-top: -20px;
+    text-align: center;
+}
